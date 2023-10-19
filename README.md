@@ -23,7 +23,8 @@ RegisterNumber:
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+![Screenshot 2023-10-19 102009](https://github.com/nandhu6523/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/123856724/c42dfcd6-f577-48be-af33-3c84f488acc0)
+
 
 
 ## Result:
